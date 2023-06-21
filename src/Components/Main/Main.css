@@ -1,0 +1,13 @@
+.HomeStyle{
+ 
+    margin: 40px;
+  
+}
+.CardStyle{
+     position: relative;
+    display: inline-flex; 
+    flex-direction: row;
+}
+a{
+    text-decoration: none;
+}

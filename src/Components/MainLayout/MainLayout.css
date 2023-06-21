@@ -1,0 +1,25 @@
+
+
+.Topbar{
+    position: fixed;
+    background-color: #FFFFFF;
+    width: calc(100% - 150px);
+   margin-right: 4;
+    height: 100px;
+    margin-top: 1px; 
+    margin-left: 177px;  
+}
+.MainStyle{
+    position: relative;
+    
+    background-color:#f5f5f5 ;
+    width: calc(100% - 150px);
+    margin-top: 7em;
+    margin-left: 177px;
+    padding: 8px;
+    
+}
+
+  @media screen and (max-width: 767px) {
+    .row.content {height: auto;} 
+  }

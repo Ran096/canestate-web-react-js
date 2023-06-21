@@ -1,0 +1,26 @@
+.TopbarStyle{
+    margin-top:0.3em;
+    margin-bottom: -0.5em;
+    margin-right: 0.3em;
+    z-index: 2;
+}
+.TopDownBar {
+    margin-top: -1.5em;  
+}
+.TopDownBar .fa-search{
+
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    z-index: 5;
+
+   }
+.inputBox{
+    position: relative;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 200px;
+
+}
